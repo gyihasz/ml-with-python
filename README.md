@@ -1,7 +1,13 @@
 # Machine Learning (Classification) with Python
-This was a University project for Optimization and Data Analysis, Aarhus University
+This was a University project for Optimization and Data Analysis, Aarhus University.
 
-# Special thanks to Gronne (github.com/gronne) for the Subclass Centroid Classifier.
+
+## This project compares three classification schemes:
+1. K-Nearest Neighbours Classifier
+2. Nearest Sub-Class Centroid Classifier
+3. Nearest Centroid Classifier 
+
+### Special thanks to ![Gronne](https://github.com/gronne) for the Sub-Class Centroid Classifier.
 
 # Results
-[Result part](part.png)
+![Part of the results](results_part.png)
